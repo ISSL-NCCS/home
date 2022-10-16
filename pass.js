@@ -2,7 +2,7 @@
 
   var password = prompt('Enter the password to download the file:');
   if(password.toLowerCase() == "teacher"){
-  	alert("Google will scan your file for virues. Please keep patience! downloading will strat after the scaning.\nClose this window to start downloading.");
+  	alert("Google will scan your file for virues. Please keep patience! downloading will start after the scaning.\nClose this window to start downloading.");
     window.open("https://drive.google.com/uc?export=download&id=1B0CekQkYxwgk-1Dd7uDIRD8V5wMe9ZBl&export=download", "_self")    
   }else{
     alert("Incorrect Password! Please Try Again");
@@ -13,7 +13,7 @@
   var password = prompt('Enter the password to download the file:');
   if(password.toLowerCase() == "teacher"){
   	loggedin = true;
-  	alert("Google will scan your file for virues. Please keep patience! downloading will strat after the scaning.\nClose this window to start downloading.");
+  	alert("Google will scan your file for virues. Please keep patience! downloading will start after the scaning.\nClose this window to start downloading.");
     window.open("https://drive.google.com/uc?export=download&id=1UY-VTx5Y-KgOUVE2qGLjtJFIBAWjZh7-", "_self")  
   }
   else{
@@ -26,7 +26,7 @@
 
   var password = prompt('Enter the password to download the file:');
   if(password.toLowerCase() == "teacher"){
-  	alert("Google will scan your file for virues. Please keep patience! downloading will strat after the scaning.\nClose this window to start downloading.");
+  	alert("Google will scan your file for virues. Please keep patience! downloading will start after the scaning.\nClose this window to start downloading.");
     window.open("https://drive.google.com/uc?export=download&id=1B0CekQkYxwgk-1Dd7uDIRD8V5wMe9ZBl&export=download", "_self")    
   }else{
     alert("Incorrect Password! Please Try Again");
@@ -37,7 +37,7 @@
 
   var password = prompt('Enter the password to download the file:');
   if(password.toLowerCase() == "teacher"){
-  	alert("Google will scan your file for virues. Please keep patience! downloading will strat after the scaning.\nClose this window to start downloading.");
+  	alert("Google will scan your file for virues. Please keep patience! downloading will start after the scaning.\nClose this window to start downloading.");
     window.open("https://drive.google.com/uc?export=download&id=1B0CekQkYxwgk-1Dd7uDIRD8V5wMe9ZBl&export=download", "_self")    
   }else{
     alert("Incorrect Password! Please Try Again");
@@ -49,7 +49,7 @@
   var password = prompt('Enter the password to download the file:');
   if(password.toLowerCase() == "teacher"){
   	loggedin = true;
-  	alert("Google will scan your file for virues. Please keep patience! downloading will strat after the scaning.\nClose this window to start downloading.");
+  	alert("Google will scan your file for virues. Please keep patience! downloading will start after the scaning.\nClose this window to start downloading.");
     window.open("https://drive.google.com/uc?export=download&id=1UY-VTx5Y-KgOUVE2qGLjtJFIBAWjZh7-", "_self")  
   }
   else{
